@@ -1,0 +1,30 @@
+----
+
+  - Data outside work hours (09:00 - 17:00)
+
+----
+
+  - Brute force attack
+
+----
+
+  - All privalage escalations / account changes or additions
+
+----
+
+  - Unknow programs or programs running from suspicious locations
+
+----
+
+  - sys changes
+
+----
+
+  - Large data transfers to unknow IPs
+
+----
+
+  - Port scanning detection
+
+----
+
