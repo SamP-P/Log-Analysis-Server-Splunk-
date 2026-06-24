@@ -1,9 +1,12 @@
 ----
 
-splunk setup
-
-----
-
 Universal config setup
+- Firstly set the Ubuntu devices IP to static (its on DHCP currently)
+- set the IP adress of the Ubuntu device as the IP to transmit to and receive from
+- set up ports to receive and trasnmit data to and from the other device
 
 ----
+
+splunk setup
+- set Ports and IPs accordingly
+- Logs to receive from WIN client  -- security -- system -- application --
