@@ -30,4 +30,4 @@ Skills:
   - setting static IPs
 
 ----
-![Network Diagram](images/4a02mgvekudf1.jpeg)
+![Network Diagram](Network-Diagram.png) ![Network Diagram](Log-Flow-Diagram.png)
