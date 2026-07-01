@@ -1,7 +1,7 @@
 ----
 
 Description:
-  An Ubuntu server that can recieve system logs from a Windos pc (on LAN), through splunk universal forewarder, this information should then be analysed and filtered
+  Setting up an Ubuntu server that can recieve system logs from a Windows pc (on LAN), through splunk universal forwarder, this information should then be analysed and filtered
   Alerts and an analysis of the data should be recieved in the event of a suspicious change.
 
 ----
